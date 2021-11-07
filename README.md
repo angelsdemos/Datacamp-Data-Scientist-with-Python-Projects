@@ -1,5 +1,7 @@
 # Datacamp Data Scientist with Python Projects
- 
+
+![Datacamp Data Scientist with Python Projects](img/cover.png)
+
 Projects of  [Datacamp Data Scientist Career Track](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
 
 ## [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/angelsdemos/Datacamp-Data-Scientist-with-Python-Projects/blob/main/1%20-%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb) ([Datacamp](https://app.datacamp.com/learn/projects/1237))
